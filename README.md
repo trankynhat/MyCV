@@ -1,4 +1,4 @@
-﻿# Tran Ky Nhat â€” Backend Developer CV
+﻿# Tran Ky Nhat  Backend Developer CV
 
 Online CV and downloadable PDF.
 
